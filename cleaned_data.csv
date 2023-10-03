@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Energy_Efficiency,Material,Recyclable,Eco_Certification,Energy_Efficiency_Ordinal
+1,LED Light Bulb,Lighting,A+,glass,yes,energy star,2
+2,Organic Paint,Paint,A,organic,yes,energy star,1
+3,Bamboo Flooring,Flooring,A,bamboo,yes,fsc,1
+4,Solar Garden Light,Lighting,A,silicon,yes,energy star,1
+5,Recycled Plastic Lawn Chair,Furniture,A,recycled plastic,yes,energy star,1
+6,Low VOC Wall Paint,Paint,A,low voc,yes,energy star,1
+7,CFL Light Bulb,Lighting,A,glass,yes,energy star,1
+8,Reclaimed Wood Table,Furniture,A,reclaimed wood,yes,fsc,1
+9,Insulated Window Panel,Windows,A,glass,yes,energy star,1
+10,Eco-friendly Insulation,Insulation,A,recycled material,yes,energy star,1
+11,Solar Panel Kit,Solar,A,silicon,yes,energy star,1
+12,Low-Flow Showerhead,Plumbing,A,metal,yes,watersense,1
+13,Compost Bin,Gardening,A,metal,yes,energy star,1
+14,Organic Garden Soil,Gardening,A,organic,yes,energy star,1
+15,Recycled Rubber Mulch,Gardening,A,recycled rubber,yes,energy star,1
+16,Ceramic Water Filter,Plumbing,A,ceramic,yes,energy star,1
+17,Recycled Aluminum Foil,Kitchen,A,recycled aluminum,yes,energy star,1
+18,Organic Cotton Drapes,Textiles,A,organic cotton,yes,energy star,1
+19,Energy-Efficient Refrigerator,Appliances,A+,metal,yes,energy star,2
+20,Bamboo Cutting Board,Kitchen,A,bamboo,yes,energy star,1
+21,LED Desk Lamp,Lighting,A+,metal,yes,energy star,2
+22,Recycled Glass Tile,Flooring,A,recycled glass,yes,energy star,1
+23,Reclaimed Wood Shelves,Furniture,A,reclaimed wood,yes,fsc,1
+24,Organic Linen Sheet Set,Textiles,A,organic linen,yes,energy star,1
+25,Low VOC Floor Sealer,Flooring,A,low voc,yes,energy star,1
+26,Solar Attic Fan, Ventilation,A,metal,yes,energy star,1
+27,Recycled Metal Cabinet Hardware,Hardware,A,recycled metal,yes,energy star,1
+28,Biodegradable Plant Pots,Gardening,A,biodegradable material,yes,energy star,1
+29,Recycled Plastic Storage Bin,Storage,A,recycled plastic,yes,energy star,1
+30,CFL Ceiling Fixture,Lighting,A,glass,yes,energy star,1
+31,Reclaimed Barn Wood Flooring,Flooring,A,reclaimed wood,yes,fsc,1
+32,Energy-Efficient Dishwasher,Appliances,A+,metal,yes,energy star,2
+33,Solar Water Heater,Solar,A,metal,yes,energy star,1
+34,Organic Mattress Protector,Textiles,A,organic cotton,yes,energy star,1
+35,Eco-Friendly Air Purifier,Appliances,A,plastic,yes,energy star,1
+36,LED Outdoor Fixture,Lighting,A+,metal,yes,energy star,2
+37,Bamboo Garden Fence,Gardening,A,bamboo,yes,energy star,1
+38,Low VOC Deck Stain,Paint,A,low voc,yes,energy star,1
+39,Recycled Newspaper Insulation,Insulation,A,recycled newspaper,yes,energy star,1
+40,Energy-Efficient Freezer,Appliances,A+,metal,yes,energy star,2
+41,Recycled Glass Countertop,Kitchen,A,recycled glass,yes,energy star,1
+42,Solar Path Light,Lighting,A,silicon,yes,energy star,1
+43,Recycled Metal Garden Sculpture,Gardening,A,recycled metal,yes,energy star,1
+44,Reclaimed Wood Dining Table,Furniture,A,reclaimed wood,yes,fsc,1
+45,Eco-Friendly Adhesive,Paint,A,low voc,yes,energy star,1
+46,LED Vanity Light Fixture,Lighting,A+,glass,yes,energy star,2
+47,Bamboo Bath Mat,Bathroom,A,bamboo,yes,energy star,1
+48,Recycled Copper Sink,Kitchen,A,recycled copper,yes,energy star,1
+49,Low VOC Primer,Paint,A,low voc,yes,energy star,1
+50,Recycled Plastic Compost Bin,Gardening,A,recycled plastic,yes,energy star,1

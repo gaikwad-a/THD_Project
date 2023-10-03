@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Energy_Efficiency,Material,Recyclable,Eco_Certification,Carbon_Footprint,Water_Usage,End-of-Life_Disposal,Local_Sourcing
+1,Eco Lightbulb,Lighting,3.0,Recycled Glass,Yes,ENERGY STAR,10 kg,0.5 Liters,Recyclable,Yes
+2,Green Paint,Paint,2.0,Organic,Yes,Low VOC,5 kg,2 Liters,Recyclable,No
+3,Reclaimed Wood Table,Furniture,,Reclaimed Wood,Yes,FSC,20 kg,,Recyclable,Yes
+4,Solar Garden Light,Outdoor Lighting,3.0,Solar,Yes,ENERGY STAR,0 kg,0 Liters,Recyclable,Yes
+5,Low Flow Shower Head,Plumbing,2.0,Stainless Steel,Yes,WATER SENSE,1 kg,10 Liters,Recyclable,No
+6,Bamboo Flooring,Flooring,1.0,Bamboo,Yes,FSC,15 kg,,Recyclable,Yes
+7,Solar Panel Kit,Energy,3.0,Silicon,Yes,ENERGY STAR,0 kg,0 Liters,Recyclable,Yes
+8,Compost Bin,Garden,,Recycled Plastic,Yes,USDA Organic,0 kg,,Recyclable,Yes
+9,Insulated Tool Set,Tools,,Stainless Steel,No,,10 kg,,Non-Recyclable,No
+10,Organic Cotton Drapes,Decor,,Organic Cotton,Yes,Fair Trade,8 kg,,Recyclable,Yes
+11,LED Flood Light,Lighting,3.0,Aluminium,Yes,ENERGY STAR,5 kg,1 Liter,Recyclable,Yes
+12,Eco-Friendly Tile,Flooring,1.0,Recycled Ceramic,Yes,GreenGuard,20 kg,3 Liters,Recyclable,No
+13,Rain Barrel,Garden,,Recycled Plastic,Yes,USDA Organic,0 kg,50 Liters,Recyclable,Yes
+14,Solar Charger,Energy,3.0,Solar,Yes,ENERGY STAR,0 kg,0 Liters,Recyclable,Yes
+15,Reclaimed Wood Shelf,Furniture,,Reclaimed Wood,Yes,FSC,12 kg,,Recyclable,Yes
+16,Low VOC Primer,Paint,2.0,Organic,Yes,Low VOC,5 kg,2 Liters,Recyclable,No
+17,Energy Efficient Fan,Energy,3.0,Plastic,Yes,ENERGY STAR,7 kg,1 Liter,Recyclable,No
+18,Recycled Plastic Rug,Decor,,Recycled Plastic,Yes,Cradle to Cradle,12 kg,,Recyclable,Yes
+19,Ceramic Planter,Garden,,Ceramic,No,,15 kg,,Non-Recyclable,No
+20,Organic Fertilizer,Garden,,Organic,Yes,USDA Organic,0 kg,1 Liter,Recyclable,Yes
+21,Sustainable Tool Box,Tools,,Recycled Metal,Yes,Cradle to Cradle,10 kg,,Recyclable,Yes
+22,Water-Saving Faucet,Plumbing,2.0,Stainless Steel,Yes,WATER SENSE,3 kg,10 Liters,Recyclable,No
+23,Reclaimed Metal Shelf,Furniture,,Reclaimed Metal,Yes,FSC,15 kg,,Recyclable,Yes
+24,LED Desk Lamp,Lighting,3.0,Recycled Metal,Yes,ENERGY STAR,4 kg,0.5 Liters,Recyclable,Yes
+25,Organic Mattress,Decor,,Organic Cotton,Yes,GreenGuard,30 kg,,Recyclable,Yes
+26,Eco-Friendly Insulation,Tools,1.0,Recycled Fiber,Yes,ENERGY STAR,10 kg,1 Liter,Recyclable,Yes
+27,Recycled Glass Vase,Decor,,Recycled Glass,Yes,Cradle to Cradle,5 kg,,Recyclable,Yes
+28,Water Collection System,Garden,,Recycled Plastic,Yes,USDA Organic,0 kg,50 Liters,Recyclable,Yes
+29,Sustainable Cutlery Set,Tools,,Bamboo,Yes,Fair Trade,2 kg,,Recyclable,Yes
+30,Organic Pillow,Decor,,Organic Cotton,Yes,GreenGuard,2 kg,,Recyclable,Yes
